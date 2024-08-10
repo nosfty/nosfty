@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @nosfty
-- 👀 I’m interested in programing\music
-- 🌱 I’m currently learning Python\C++
-- 📫 How to reach me: unsftyghub@gmail.com
-- 😄 Pronouns: He \ Him \ Tank T-34 \ Helicopter \ Dodo bird
-<!---
-nosfty/nosfty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![tumblr_60a43b8afe930dfea6d43e151f47587b_e1accf84_1280](https://github.com/user-attachments/assets/fd71f183-2b3e-4daa-b75b-aaf45620603a)
+
+----
+
+# Hello, I'm usfty!
