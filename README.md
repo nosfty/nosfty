@@ -2,7 +2,7 @@
 ![tumblr_60a43b8afe930dfea6d43e151f47587b_e1accf84_1280](https://github.com/user-attachments/assets/c0511319-d189-4334-af1d-6f5964957dfd)
 
 ----
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Unsfty
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NOSFTY
 ==============================================================================================================================
 
 Hello! I'm a Python developer from Moscow. In my work, I create various projects, from web applications to task automation. Here on github, I share my developments, ideas, and educational materials.
